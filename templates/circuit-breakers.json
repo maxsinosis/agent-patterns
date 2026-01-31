@@ -1,0 +1,11 @@
+{
+  "breakers": {
+    "example_api": {
+      "failures": 0,
+      "lastFailure": null,
+      "state": "closed",
+      "threshold": 3,
+      "resetAfter": 300
+    }
+  }
+}

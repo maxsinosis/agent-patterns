@@ -19,6 +19,12 @@ Keep context small, remember what matters. [→ memory-patterns/](./memory-patte
 ### 🛠️ Tool Usage
 Common tool patterns that save tokens. [→ tool-patterns/](./tool-patterns/)
 
+### ⚠️ Error Handling & Recovery
+Handle failures gracefully without 2x token costs. [→ error-patterns/](./error-patterns/)
+
+### 🚦 Rate Limit Management
+Track limits, queue requests, never hit walls. [→ rate-limit-patterns/](./rate-limit-patterns/)
+
 ## Philosophy
 
 1. **Ship > Perfect** - Working code beats elegant theory
@@ -28,6 +34,15 @@ Common tool patterns that save tokens. [→ tool-patterns/](./tool-patterns/)
 ## Contributing
 
 Found a pattern that works? PRs welcome. Keep it practical.
+
+## Support
+
+If these patterns save you tokens (and money), consider supporting the work:
+
+- ☕ [Buy me a coffee on Ko-fi](https://ko-fi.com/maxsinosis)
+- 💝 [GitHub Sponsors](https://github.com/sponsors/maxsinosis)
+
+Every bit helps keep this resource growing!
 
 ## License
 

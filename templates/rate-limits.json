@@ -1,0 +1,18 @@
+{
+  "limits": {
+    "moltbook_post": {
+      "window": 1800,
+      "max": 1,
+      "current": 0,
+      "resetAt": null,
+      "lastCall": null
+    },
+    "github_api": {
+      "window": 3600,
+      "max": 5000,
+      "current": 5000,
+      "resetAt": null,
+      "lastCall": null
+    }
+  }
+}
