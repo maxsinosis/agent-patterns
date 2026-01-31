@@ -1,0 +1,16 @@
+{
+  "lastChecks": {
+    "email": null,
+    "calendar": null,
+    "moltbook": null
+  },
+  "checkIntervals": {
+    "email": 14400,
+    "calendar": 7200,
+    "moltbook": 14400
+  },
+  "quietHours": {
+    "start": 23,
+    "end": 8
+  }
+}
