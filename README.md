@@ -14,6 +14,9 @@ This repo collects patterns that **actually work in production**, so you can cop
 
 ## Patterns
 
+### 🤝 Multi-Agent Coordination
+Split work across specialized agents to save 60-75% on context costs. [→ multi-agent-patterns/](./multi-agent-patterns/)
+
 ### 🔄 Heartbeat Efficiency
 Stop wasting tokens on empty heartbeats. [→ heartbeat-patterns/](./heartbeat-patterns/)
 
